@@ -1,11 +1,18 @@
-#theme: minima
-remote_theme: jekyll/minima
+theme: minima
 
 title: Sono in NZ
+author: --
+email: 
+description: >
+    I always welcome your contact in any social media! 
+
+twitter_username: uchunchu_mhr
+instagram_username: sonoinnz
+github_username: Mihiro1ll1
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+    - jekyll-feed
+    - jekyll-seo-tag
 
 header_pages: 
     - page/life.md
@@ -15,7 +22,3 @@ header_pages:
 
 minima:
     skin: classic
-
-    social_links:
-        - { platform: instagram, user_url: "https://www.instagram.com/sonoinnz" }
-        - { platform: github, user_url: "https://github.com/Mihiro1ll1" }
