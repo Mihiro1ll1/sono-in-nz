@@ -4,7 +4,12 @@ title: Profile
 permalink: /profile/
 ---
 
-2023年12月からニュージーランドでワーホリ予定のSono（29歳・男）です。
+<div style="text-align: center">
+    <img src="../image/bio.JPG" width="300"><br/>
+    <h3>Sono</h3>
+</div>
+
+2023年12月からニュージーランドでワーホリ予定の29歳・男です。
 
 約5年間、東京のスタートアップ企業で人工衛星をつくるエンジニアをしていました。
 
@@ -14,16 +19,14 @@ permalink: /profile/
 
 ---
 
-
-
-Thank you for visiting my blog!
+<br/>Thank you for visiting!
 
 I am Sono, who will be coming to New Zealand from December 2023 for a working holiday. 
 
 I am 29 years old man.
 
-I had worked as an spacecraft engineer in a startup company in Tokyo for about 5 years.
+I had worked as a spacecraft engineer in a startup company in Tokyo for about 5 years.
 
-Taking this opportunity to live in new environment gaining new stimulation, I want to reconsider my future career and my life.
+Taking this opportunity to live in new environment gaining new stimulation, I will refresh my mind and reconsider my future career and my life.
 
-I hope the contents here are interesting and informative to you.
+I hope the contents in this blog are interesting and informative to you.

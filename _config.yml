@@ -1,5 +1,11 @@
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
+
 title: Sono in NZ
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 header_pages: 
     - page/life.md
