@@ -14,9 +14,11 @@ permalink: /profile/
 
 ---
 
+
+
 Thank you for visiting my blog!
 
-Hello I am Sono, who will be coming to New Zealand from December 2023 for a working holiday. 
+I am Sono, who will be coming to New Zealand from December 2023 for a working holiday. 
 
 I am 29 years old man.
 

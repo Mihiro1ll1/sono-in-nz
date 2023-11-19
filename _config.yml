@@ -2,13 +2,14 @@ theme: minima
 title: Sono in NZ
 
 header_pages: 
-    - profile.md
-    - prep.md
-    - life.md
-    - jobs.md
+    - page/life.md
+    - page/jobs.md
+    - page/prep.md
+    - page/profile.md
 
 minima:
     skin: classic
+
     social_links:
-        - {platform: github, user_url: "https://github.com/Mihiro1ll1"}
-        - {platform: instagram, user_url: "https://www.instagram.com/sonoinnz"}
+        - { platform: instagram, user_url: "https://www.instagram.com/sonoinnz" }
+        - { platform: github, user_url: "https://github.com/Mihiro1ll1" }
