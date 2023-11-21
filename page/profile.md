@@ -5,9 +5,10 @@ permalink: /profile/
 ---
 
 <div style="text-align: center">
-    <img src="../image/bio.JPG" width="300"><br/>
+    <img src="../image/bio_circle.png" width="300"><br/>
     <h3>Sono</h3>
 </div>
+
 
 2023年12月からニュージーランドでワーホリ予定の29歳・男です。
 
