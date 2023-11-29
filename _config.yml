@@ -1,16 +1,15 @@
 theme: minima
 
 title: Sono in NZ
-author: I always welcome your contact in any social media! 
+author: --
 email: 
-description: --
+description: I always welcome you contact me in any social media!
 
-twitter_username: uchunchu_mhr
+twitter_username: mhr1ll1
 instagram_username: sonoinnz
 github_username: Mihiro1ll1
 
 plugins:
-    - jekyll-feed
     - jekyll-seo-tag
 
 header_pages: 
@@ -21,3 +20,5 @@ header_pages:
 
 minima:
     skin: classic
+
+google_analytics: G-BF94NRKD2G
