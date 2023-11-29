@@ -6,9 +6,9 @@ author: --
 email: 
 description: I always welcome you contact me in any social media!
 
-twitter_username: mhr1ll1
-instagram_username: sonoinnz
-github_username: Mihiro1ll1
+#twitter_username: mhr1ll1
+#instagram_username: sonoinnz
+#github_username: Mihiro1ll1
 
 plugins:
     #- jekyll-feed
@@ -24,5 +24,10 @@ header_pages:
 
 minima:
     skin: classic
+
+    social_links:
+        - { platform: twitter, user_url: "https://twitter.com/mhr1ll1" }
+        - { platform: instagram, user_url: "https://www.instagram.com/sonoinnz" }
+        - { platform: github, user_url: "https://github.com/Mihiro1ll1" }
 
 google_analytics: G-BF94NRKD2G
