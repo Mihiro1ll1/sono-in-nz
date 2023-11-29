@@ -4,7 +4,7 @@ remote_theme: jekyll/minima
 title: Sono in NZ
 author: --
 email: 
-description: I always welcome you contact me in any social media!
+description: I always welcome your message in any social media!
 
 #twitter_username: mhr1ll1
 #instagram_username: sonoinnz
@@ -26,8 +26,8 @@ minima:
     skin: classic
 
     social_links:
-        #- { platform: twitter, user_url: "https://twitter.com/mhr1ll1" }
-        - { platform: x, user_url: "https://x.com/mhr1ll1" }
+        - { platform: twitter, user_url: "https://twitter.com/mhr1ll1" }
+        #- { platform: x, user_url: "https://x.com/mhr1ll1" }
         - { platform: instagram, user_url: "https://www.instagram.com/sonoinnz" }
         - { platform: github, user_url: "https://github.com/Mihiro1ll1" }
 
