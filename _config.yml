@@ -1,4 +1,5 @@
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 
 title: Sono in NZ
 author: --
@@ -10,7 +11,9 @@ instagram_username: sonoinnz
 github_username: Mihiro1ll1
 
 plugins:
+    #- jekyll-feed
     - jekyll-seo-tag
+    - jekyll-remote-theme
 
 header_pages: 
     - page/life.md
