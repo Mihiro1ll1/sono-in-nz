@@ -17,8 +17,8 @@ plugins:
     - jekyll-sitemap
 
 header_pages: 
+    - page/work.md
     - page/life.md
-    - page/jobs.md
     - page/prep.md
     - page/profile.md
 
