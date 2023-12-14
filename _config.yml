@@ -11,7 +11,7 @@ description: I always welcome your message in any social media!
 #github_username: Mihiro1ll1
 
 plugins:
-    #- jekyll-feed
+    - jekyll-feed
     - jekyll-seo-tag
     - jekyll-remote-theme
     - jekyll-sitemap
