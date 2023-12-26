@@ -146,6 +146,8 @@ permalink: /preparation/
 
 何を持って行くかは後日別の記事に書いてリンクを貼ります。
 
+[2023.12.26 追記] 書きました：[2023-12-26 What is in my bag](https://mihiro1ll1.github.io/sono-in-nz/2023/12/26/what-is-in-my-bag.html)
+
 ---
 
 [^1]: まずは王道のフルーツピッキングの仕事をしたく、時期的に仕事がありそうな場所を選びました。 よくまとまっていて参考になったサイトのリンクです。：[ニュージーランドのファームジョブの探し方 \| NZを自力で攻略](https://nz-ryugaku.com/after/job/farm/)
