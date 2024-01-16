@@ -41,7 +41,7 @@ permalink: /landing/
 
 
 <h3>
-<a href="https://mihiro1ll1.github.io/sono-in-nz/2024/01/16//be-a-driver.html" target="_blank">
+<a href="https://mihiro1ll1.github.io/sono-in-nz/2024/01/16/be-a-driver.html" target="_blank">
 2024-01-16 Be a driver
 </a>
 </h3>
