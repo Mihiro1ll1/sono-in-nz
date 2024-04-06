@@ -5,8 +5,9 @@ permalink: /landing/
 ---
 
 <div style="text-align: center">
-    <img src="../image/airnz.png"><br>
+    <img src="../image/airnz.jpg"><br>
 </div><br>
+
 
 日本を出国・NZに入国してから生活を落ち着けるまでのポストのまとめです。
 
