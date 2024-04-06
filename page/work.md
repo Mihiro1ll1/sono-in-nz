@@ -4,6 +4,10 @@ title: Work
 permalink: /work/
 ---
 
+<div style="text-align: center">
+    <img src="../image/arataki.jpg"><br>
+</div><br>
+
 NZでの仕事についてのポストのまとめです。
 
 <h3>
@@ -11,7 +15,5 @@ NZでの仕事についてのポストのまとめです。
 2023-01-25 ドキドキの初仕事 Strawberry Picking
 </a>
 </h3>
-
-
 > 一週間前にワイタケレという町のイチゴ農園で働きはじめました。さきほど無事に初給料が振り込まれていることを確認し、ありがたい&めでたいです。ということで、NZでの初仕事の報告記事です。
 
