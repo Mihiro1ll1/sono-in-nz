@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 ---
 
 ワーホリ生活に向けてブログを作りました。
