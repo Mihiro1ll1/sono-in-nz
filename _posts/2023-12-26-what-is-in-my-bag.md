@@ -1,6 +1,6 @@
 ---
 layout: post
-
+title: What's in My Bag?
 ---
 
 日本から出発するときの荷物を紹介します。
