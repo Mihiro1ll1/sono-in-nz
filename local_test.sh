@@ -21,10 +21,11 @@ fi
 
 case ${1} in
     up)
-        docker-compose up -d
+        docker compose up -d
         ;;
     down)
-        docker-compose down
+        docker compose down
+        #rm -rf .sass-cache
         ;;
     help)
         usage
