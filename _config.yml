@@ -19,6 +19,7 @@ plugins:
 header_pages: 
     - page/work.md
     - page/life.md
+    - page/trip.md
     - page/landing.md
     - page/prep.md
     - page/profile.md
