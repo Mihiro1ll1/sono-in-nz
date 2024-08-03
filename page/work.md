@@ -5,7 +5,7 @@ permalink: /work/
 ---
 
 <div style="text-align: center">
-    <img src="../image/arataki.jpg"><br>
+    <img src="../image/shakespear_beach.jpg"><br>
 </div><br>
 
 NZでの仕事についてのポストのまとめです。

@@ -5,8 +5,9 @@ permalink: /life/
 ---
 
 <div style="text-align: center">
-    <img src="../image/shakespear_beach.jpg"><br>
+    <img src="../image/kiwi_bickey.jpg"><br>
 </div><br>
+
 
 現地での生活についてのポストのまとめです。
 
